@@ -1,0 +1,10 @@
+Features Inventaire
+
+Les objets sont de différents types (normaux, de quêtes, armes, consommables). et ont une rareté.
+Ils peuvent être stackés ou non, droppés ou non, équipés, consommés ou non.
+
+L'inventaire est une LISTE D'OBJETS PUTAIN
+
+
+Un objet est une structure avec un ID, un Mesh, et tout le tralala qui héritera d'une structure mère.
+On peut spawn un item in-game en le droppant.
